@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dream Analytics</title>
+    <center><h1><b><i>VISIONSCOPE</i></b></h1>
+    <P><i><b>From clouds to career</b></i></p>
+    </center>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <center>
+    <header>
+        <nav>
+            
+                <a href="#home">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#about">About</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#services">Services</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#contact">Contact</a>
+            
+        </nav>
+    </header>
+  </center>
+    <main>
+	<center>
+        <section id="home">
+            <h1><b><i>Welcome to Dream Analytics</i></b></h1>
+            <p><i>Unlock the secrets of your dreams</i></p>
+<button>Get Started</button>
+        </section>
+	</center>
+	<center>
+        <section id="about">
+            <h1>ABOUT US</h1>
+            <p><i><b>We're a team of experts dedicated to help you to understand your dreams.</b></i></p>
+		<p><i>Hello, It's <b>Tithi Patra</b>, the team leader. Me and my friends <b>Paramita Nandi</b>, <b>Shreyasi Nanda</b> and <b>Priyanshu Kumari</b> will try to turn your dreams into REALITY.</i></p>
+        </section>
+	</center>
+	<center>
+        <section id="services">
+            <h1>OUR SERVICES</h1>
+            
+                <li><i>1.Dream Journaling</i></li>
+                <li><i>2.Dream Interpretation</i></li>
+                <li><i>3.Personalized Coaching</i></li>
+        </section>
+        <section id="contact">
+            <h1><i>GET IN TOUCH</i></h1>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name"><br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email"><br><br>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message"></textarea><br><br>
+                <input type="submit" value="Send">
+            </form>
+        </section>
+    </main>
+    <center>
+	<footer>
+        <p>&copy; 2025 Dream Analytics</p>
+    </footer>
+    </center>
+</body>
+</html>
